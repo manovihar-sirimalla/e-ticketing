@@ -1,1 +1,6 @@
 This the first file in my repo
+Hi
+Hello
+How are you?
+This is SE LAB
+Nice
